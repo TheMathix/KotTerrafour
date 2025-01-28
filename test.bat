@@ -1,5 +1,5 @@
 @ECHO OFF
-call git reset --hard origin/master
+call git reset --hard origin/main
 call git pull origin master
 %~dp0\terraria-server-1449\1449\Windows\TerrariaServer.exe -config %~dp0\terraria-server-1449\1449\Windows\serverconfig.txt
 call git add *
