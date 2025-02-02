@@ -7,6 +7,8 @@ For the moment it's set to work on Windows only. The only thing you need is to h
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+To change to your own world file, just fork this repository and add your own world file. Finally change in the server configuration file (KotTerrafour\terraria-server-1449\1449\Windows\serverconfig.txt) and change the name of the world.
+
 To start the server, just double click on the start.bat file and it will open the server on your PC. Don't be scared of the command prompt window that will open, it's just your Terraria server working.
 
 To enter the game, go to Multiplayer and select "Enter by IP". If you're the one hosting, it will probably suggest entering on 127.0.0.1:7777. If you're **not** the one hosting, ask your the host for their IP and enter.
